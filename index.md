@@ -8,6 +8,7 @@ A link to a reference paper, the tool's website, and a download link for the con
 ### JDeodorant
 
 | **Fowler's Bad Smell**  | **Fowler's Refactorings**              |
+|:------------------------|:---------------------------------------|
 |Duplicated Code          | Extract Class                          |
 |Feature Envy             | Extract Clone                          |
 |Long Method              | Extract Method                         |
@@ -19,3 +20,6 @@ A link to a reference paper, the tool's website, and a download link for the con
 - Links
 
 | [Paper](https://github.com/) | [WebSite](https://github.com/) | [Ready-to-Use](https://github.com/) |
+
+github:
+  zip_url: http://example.com/download.zip
