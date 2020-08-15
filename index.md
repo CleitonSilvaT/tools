@@ -7,12 +7,16 @@ A link to a reference paper, the tool's website, and a download link for the con
 
 ### JDeodorant
 
-| **Fowler's Bad Smell** | **Fowler's Refactorings** |
-|:-----------------------|:-------------------------:|
+- **Fowler's Bad Smell** ->
+
+- **Fowler's Refactorings** -> 
+
+
 
 
 
 * Links
+
 | [Paper](https://github.com/) | [WebSite](https://github.com/) | [Ready-to-Use](https://github.com/) |
 
 
